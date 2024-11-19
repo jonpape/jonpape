@@ -1,4 +1,12 @@
-### Hi there 👋
+### Strategic Digital Paid Media & Marketing Data Leader | ex-Google/Mandiant, ex-Yahoo | MBA, MCIT
+
+Current: Genentech
+
+MCIT - University of Pennsylvania
+MBA - Western Micigan University
+
+Beaverton, Oregon, United States
+http://planningplus.app 
 
 <!--
 **jonpape/jonpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
