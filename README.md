@@ -58,6 +58,7 @@ Pursue a leadership role in a high-tech company, leveraging my expertise in mark
 - **GitHub**: [jonpape](https://github.com/jonpape)  
 - **LinkedIn**: [Jonathan Pape](https://www.linkedin.com/in/jonpape/)  
 - **Portfolio**: [www.jonpape.com](http://www.jonpape.com)
+- **PlanningPlus App**: [PlanningPlus](https://planningplus.app/)
 
 ---
 
