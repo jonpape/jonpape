@@ -6,6 +6,7 @@ Current: Genentech
 - MBA - Western Micigan University
 
 Beaverton, Oregon, United States
+
 http://planningplus.app 
 
 <!--
