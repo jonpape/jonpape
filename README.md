@@ -2,8 +2,8 @@
 
 Current: Genentech
 
-MCIT - University of Pennsylvania
-MBA - Western Micigan University
+- MCIT - University of Pennsylvania
+- MBA - Western Micigan University
 
 Beaverton, Oregon, United States
 http://planningplus.app 
